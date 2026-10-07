@@ -1,31 +1,39 @@
-# Open Systems Laboratory
+<p align="center">
+  <img src="https://github.com/Bonavia.png" width="120" alt="Bonavia">
+</p>
 
-An independent group for open-source software development, technical research, and experimentation.
+<h1 align="center">Open Systems Laboratory</h1>
 
-The laboratory brings together developers interested in building software, exploring emerging technologies, and sharing knowledge through open development.
-
-## Areas of Work
-
-Our work includes software engineering, distributed systems, blockchain technologies, developer infrastructure, web applications, and other areas of modern computing.
-
-Projects may range from early research and technical experiments to complete open-source software.
-
-## Approach
-
-We value careful engineering, open collaboration, clear documentation, and continuous learning.
-
-Ideas are explored through implementation. Projects are developed openly, reviewed by others, and improved over time.
-
-## Open Source
-
-Our repositories are available for developers who want to study, use, contribute to, or build upon our work.
-
-We welcome contributions in code, documentation, research, testing, discussion, and technical review.
-
-## Collaboration
-
-The group is open to independent developers and contributors who share an interest in open-source development and practical technical research.
+<p align="center">
+  A place for building, exploring, and sharing ideas in software.
+</p>
 
 ---
 
-*Research through development. Development through collaboration.*
+Open Systems Laboratory is an independent open-source development group interested in the way technology is built, understood, and shared.
+
+We work across software engineering, distributed systems, blockchain, web technologies, developer tools, and emerging areas of computing. Some projects begin as simple questions or experiments; others grow into software that can be used and built upon by others.
+
+### Research through making
+
+We believe that ideas become clearer when they are built.
+
+Our projects are an opportunity to explore new technologies, test different approaches, learn from implementation, and share what we discover along the way.
+
+### Open by nature
+
+Our work is developed in the open whenever possible.
+
+We welcome people who want to read, experiment, contribute, ask questions, or take an idea in a new direction. Good work often comes from unexpected conversations and different perspectives.
+
+### Projects
+
+Our repositories include experiments, libraries, tools, applications, and ongoing research.
+
+Not everything begins with a finished answer. Sometimes the most interesting part is finding the answer together.
+
+---
+
+<p align="center">
+  <sub>Build · Explore · Share</sub>
+</p>
