@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Bonavia.png" width="120" alt="Bonavia">
+  <img src="https://github.com/Bonavia.png" width="128" alt="Bonavia" style="border-radius: 24px;">
 </p>
 
 <h1 align="center">Open Systems Laboratory</h1>
@@ -8,11 +8,17 @@
   A place for building, exploring, and sharing ideas in software.
 </p>
 
+<p align="center">
+  <img src="./assets/announcement.jpg" width="720" alt="Open Systems Laboratory">
+</p>
+
 ---
 
 Open Systems Laboratory is an independent open-source development group interested in the way technology is built, understood, and shared.
 
-We work across software engineering, distributed systems, blockchain, web technologies, developer tools, and emerging areas of computing. Some projects begin as simple questions or experiments; others grow into software that can be used and built upon by others.
+We work across software engineering, distributed systems, blockchain, web technologies, developer tools, and emerging areas of computing.
+
+Some projects begin as simple questions or experiments; others grow into software that can be used and built upon by others.
 
 ### Research through making
 
@@ -24,7 +30,9 @@ Our projects are an opportunity to explore new technologies, test different appr
 
 Our work is developed in the open whenever possible.
 
-We welcome people who want to read, experiment, contribute, ask questions, or take an idea in a new direction. Good work often comes from unexpected conversations and different perspectives.
+We welcome people who want to read, experiment, contribute, ask questions, or take an idea in a new direction.
+
+Good work often comes from unexpected conversations and different perspectives.
 
 ### Projects
 
