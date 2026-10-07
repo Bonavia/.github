@@ -7,7 +7,6 @@
 <p align="center">
   A place for building, exploring, and sharing ideas in software.
 </p>
----
 
 Open Systems Laboratory is an independent open-source development group interested in the way technology is built, understood, and shared.
 
